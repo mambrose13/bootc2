@@ -1,3 +1,13 @@
-some commit test
-ljlkjeakfj
-klajdfk
+what are we doing?
+1) open git bash
+2) log into git online
+3) create new repository online and copy address
+4) create new folder through git bash (same name as online repository) - mkdir
+5) cd into new folder
+6) type: git init
+7) type: git remote add origin http://github.com/mambrose13/bootc2.git
+7) create new file and save to the folder
+8) add/commit to git:
+	git add filename.txt
+	git commit -m 'notes on commit'
+	git push origin master
